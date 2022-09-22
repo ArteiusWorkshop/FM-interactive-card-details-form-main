@@ -1,6 +1,6 @@
-# Frontend Mentor - Interactive card details form solution
+# Frontend Mentor - Advice generator app solution
 
-This is a solution to the [Interactive card details form challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-card-details-form-XpS8cKZDWw). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Advice generator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -28,11 +28,10 @@ Users should be able to:
 
 ### Screenshot
 
-![Screen 1](./screenshot1.jpeg)
-![Screen 2](./screenshot2.jpeg)
-![Screen 3](./screenshot3.jpeg)
-![Screen 4](./screenshot4.jpeg)
-![Screen 5](./screenshot5.jpeg)
+![Screen 1](./screenshot1.jpg)
+![Screen 2](./screenshot2.jpg)
+![Screen 3](./screenshot3.jpg)
+![Screen 3](./screenshot4.jpg)
 
 ### Links
 

@@ -1,0 +1,19 @@
+* {
+  font-family: "Space Grotesk", sans-serif;
+  font-size: 18px;
+}
+
+@media only screen and (max-width: 440px) {
+  body {
+    background-image: url(/img/bg-main-mobile.png);
+    background-repeat: no-repeat;
+    background-size: 150vw 30%;
+  }
+}
+@media only screen and (min-width: 600px) {
+  body {
+    background-image: url(/img/bg-main-desktop.png);
+    background-repeat: no-repeat;
+    background-size: 30% 100%;
+  }
+}
